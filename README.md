@@ -1,3 +1,5 @@
+https://fredwahab.github.io/plateweightapp/
+
 plate weight app
 this simple web app allows the user to input a weight for strength training. 
 they can then select if it is for barbell or dumbell weights.
